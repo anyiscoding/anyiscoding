@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anyiscoding
-- 👀 I’m interested in learing code
-- 🌱 I’m currently learning Python
+- 👀 I’m des change to dev
+- 🌱 I’m currently learning Front-end Dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Twitter @anyiscoding and Github/anyiscoding
 
